@@ -26,9 +26,9 @@
 <!-- 三个工具图标，放在徽章下方 -->
 <!-- 三个工具图标：每个 img 单独 align="right"，触发浮动，文字环绕 -->
 <!-- 顺序反过来写：Docker 最右，IntelliJ 中间，VSCode 最左 -->
-<img align="right" src="https://github.com/blackirlsama/blackirlsama/raw/main/DockerLogo.png" width="130" alt="Docker" style="margin-left: 8px; margin-top: 10px;" />
-<img align="right" src="https://github.com/blackirlsama/blackirlsama/raw/main/IntellijLogo.png" width="130" alt="IntelliJ IDEA" style="margin-left: 8px; margin-top: 10px;" />
-<img align="right" src="https://github.com/blackirlsama/blackirlsama/raw/main/VSCode.png" width="130" alt="VS Code" style="margin-top: 10px;" />
+<img align="right" src="./DockerLogo.png" width="130" alt="Docker" style="margin-left: 8px; margin-top: 10px;" />
+<img align="right" src="./IntellijLogo.png" width="130" alt="IntelliJ IDEA" style="margin-left: 8px; margin-top: 10px;" />
+<img align="right" src="./VSCode.png" width="130" alt="VS Code" style="margin-top: 10px;" />
 
 ### 💻 Connect With Me
 - 📫 E-mail : `820429705@qq.com`
@@ -72,7 +72,7 @@
     >  
   </a>  
   <!-- 第二个链接：力扣跳转 -->
-  <a href="https://leetcode.cn/u/cheng-zi-re/">  
+  <a href="https://leetcode.cn/u/pythony-b/">  
     <!-- 链接里的图片：力扣徽章 -->
     <img 
       src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetCode&logoColor=white" 
@@ -87,10 +87,10 @@
 <div align="center" style="margin: 20px 0; width: 100%;">
   <picture>
     <!-- 深色主题显示深色版贪吃蛇 -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blackirlsama/blackirlsama/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rooot185/rooot/output/github-contribution-grid-snake-dark.svg">
     <!-- 浅色主题显示浅色版贪吃蛇 -->
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blackirlsama/blackirlsama/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rooot185/rooot/output/github-contribution-grid-snake.svg">
     <!-- 兜底显示浅色版 -->
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/blackirlsama/blackirlsama/output/github-contribution-grid-snake.svg" style="width: 100%; border-radius: 8px;">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rooot185/rooot/output/github-contribution-grid-snake.svg" style="width: 100%; border-radius: 8px;">
   </picture>
 </div>
