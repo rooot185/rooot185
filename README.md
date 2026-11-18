@@ -1,30 +1,27 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=I'm+Hanarokusho,+Agent/Backend+Engineer" alt="Hi"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=I'm+rooot,+Agent/Backend+Engineer" alt="Hi"/>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
-    <strong>I'm currently focused on Agent.</strong>
+    <strong>I'm currently focused on Agent and Java Backend.</strong>
   </p>
   <p>
-    <code>🐼 Born 2006.09</code>
-    <code>📍 Now Base in GuangZhou.</code>
+    <code>🐼 Born 2001.11</code>
+    <code>📍 Now Base in Nanjing.</code>
   </p>
 </div>
 
 
 ## ABOUT ME
-### 🏫 Tianjin University | Software Engineering | Class Of 2028
+### 🏫 Nanjing University | Big Data Engineering and Technology | Class Of 2028
 
 <!-- 右侧像素小人 -->
-<img align="right" src="https://count.getloli.com/get/@blackirlsama?theme=moebooru&scale=1.1" alt="blackirlsama" width="400"/>
+<img align="right" src="https://count.getloli.com/get/@rooot185?theme=moebooru&scale=1.1" alt="rooot185" width="400"/>
 
-### 🌱 Internship Experience
-- `ByteDance` : `TikTok Social Inbox Backend`
-- `KuaiShou` : `Commercial Performance‑Marketing Agent`
-- `Tencent` : `Weixin Group WeCom Agent`
+### 🌱 Work Experience
+- `Shandong Xinhua Medical Instrument Co., Ltd.（ state enterprise）` : `Full-Stack Software Engineer`
+- `China Customs` : `Industry-Sponsored Research Project Developer`
+- `Nestify` : `U.S. startup, remote internship`
 
-
-### 🤖 Competition Experience
-- `RoboMaster` : `PeiYang Robot(Vision Team)`
 
 <!-- 三个工具图标，放在徽章下方 -->
 <!-- 三个工具图标：每个 img 单独 align="right"，触发浮动，文字环绕 -->
@@ -34,9 +31,7 @@
 <img align="right" src="https://github.com/blackirlsama/blackirlsama/raw/main/VSCode.png" width="130" alt="VS Code" style="margin-top: 10px;" />
 
 ### 💻 Connect With Me
-- 📕 RedNote : `花绿青`
-- 📺 BiliBili : `花绿青ovo`
-- 📫 E-mail : `799243133@qq.com`
+- 📫 E-mail : `820429705@qq.com`
 
 
 
@@ -44,7 +39,6 @@
 <br><br>
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://python.langchain.com/)
@@ -52,10 +46,9 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)](https://www.elastic.co/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
-[![RocketMQ](https://img.shields.io/badge/RocketMQ-C12229?style=flat-square&logo=apache%20rocketmq&logoColor=white)](https://rocketmq.apache.org/)
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 [![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
 [![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)](https://min.io/)
-[![Canal](https://img.shields.io/badge/Canal-1E88E5?style=flat-square&logo=apache&logoColor=white)](https://github.com/alibaba/canal)
 [![Nacos](https://img.shields.io/badge/Nacos-1C8EED?style=flat-square&logo=alibaba-cloud&logoColor=white)](https://nacos.io/)
 
 
@@ -71,10 +64,10 @@
 <!-- 外层 div：控制整体的上下间距 -->
 <div style="margin: 10px 0">  
   <!-- 第一个链接：邮箱跳转 -->
-  <a href="mailto:799243133@qq.com">  
+  <a href="mailto:820429705@qq.com">  
     <!-- 链接里的图片：邮箱徽章 -->
     <img 
-      src="https://img.shields.io/badge/799243133%40qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+      src="https://img.shields.io/badge/820429705%40qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
       alt="Email"
     >  
   </a>  
